@@ -375,7 +375,7 @@ module.exports = nativeDescription: "magyar", englishDescription: "Hungarian", t
     required_purchase_title: "Szükséges"
     available_item: "Elérhető"
     restricted_title: "Limitált"
-    should_equip: "(dupla katt, hogy felvedd)"
+    should_equip: "(kattints, hogy felvedd)"
     equipped: "(felvett)"
     locked: "(zárt)"
     restricted: "(Limitált ezen a szinten)"
