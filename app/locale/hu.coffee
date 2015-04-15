@@ -483,7 +483,7 @@ module.exports = nativeDescription: "magyar", englishDescription: "Hungarian", t
     health: "Élet"
     speed: "Sebesség"
     regeneration: "Gyógyulás"
-    range: "Hatótávolság" # As in "attack or visual range"
+    range: "Hatótáv" # As in "attack or visual range"
     blocks: "Blokkolás értéke" # As in "this shield blocks this much damage"
     backstab: "Hátbaszúrás" # As in "this dagger does this much backstab damage"
     skills: "Képességek"
@@ -668,7 +668,8 @@ module.exports = nativeDescription: "magyar", englishDescription: "Hungarian", t
     email_news: "Hírek"
     email_recruit_notes: "Álláslehetőségek"
     email_recruit_notes_description: "Ha igazán jól játszol lehet, hogy felveszzük veled a kapcsolatot és megbeszéljük, hogy szerezzünk-e neked egy (jobb) állást."
-    contributor_emails: "Hozzájárulóknak szóló levelek"
+    contributor_emails: "Ho
+    tip_talk_is_cheap: zzájárulóknak szóló levelek"
     contribute_prefix: "Folyamatosan keresünk embereket, hogy csatlakozzanak hozzánk. Nézz rá a "
     contribute_page: "segítők oldalára"
     contribute_suffix: " információkért."
